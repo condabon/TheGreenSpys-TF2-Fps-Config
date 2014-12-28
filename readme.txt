@@ -1,1 +1,1 @@
-Place in your cfg folder located in Team Fortress 2's directory.
+Rename your choice of cfg. Place in your tf/cfg directory. Then, rename into autoexec.cfg.
